@@ -7,3 +7,4 @@ This data science project walks through step by step process of how to build a r
 5 Jupyter notebook, visual studio code and pycharm as IDE
 6 Python flask for http server
 7 HTML/CSS/Javascript for UI
+
